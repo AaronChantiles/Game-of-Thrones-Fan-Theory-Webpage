@@ -1,0 +1,37 @@
+
+html {background: rgba(211, 211, 211, 0.56)}
+
+#container {
+	margin-left: 20px;
+	width: 1030px;
+}
+
+.title {
+	background: black;
+    text-align: center;
+    color: white;
+}
+
+.media {
+	display: flex;
+	height: 315px;
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+.margin {margin-left: 15px;
+}
+
+.text {
+	font-size: 18px;
+	background: white;
+	padding-left: 15px;
+	padding-right:15px;
+	padding-bottom: 15px;
+}
+
+.source {
+	background: white;
+    width: 90px;
+}
+
